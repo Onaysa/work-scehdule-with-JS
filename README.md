@@ -10,7 +10,7 @@ I built this project to give the user and easy and sufficient way to be able to 
 
 ## Usage
 
-![challenge5](./Assests/images/screenshot.png)
+![challeng5](./Assests/images/screenshot.png)
 
 ## License
 
